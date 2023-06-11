@@ -1,4 +1,6 @@
 # Dictionary
 This is a python django dictionary application
-# Dictionary
+
+
+# Steps to run the project
 This is a python django dictionary application
