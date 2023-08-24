@@ -1,7 +1,7 @@
 ## Dictionary
 This is a python django dictionary application
 
-# Steps to run the project
+## Steps to run the project
 
 ## set up the project 
 1. Clone the project from my repository
