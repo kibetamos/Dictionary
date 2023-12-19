@@ -10,7 +10,6 @@ This is a python django dictionary application
 
         git clone git@github.com:kibetamos/Dictionary.git
 
-
 2. Install requirements
    
        pip install -r requiremnts.txt
