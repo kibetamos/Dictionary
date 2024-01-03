@@ -7,7 +7,7 @@ This is a python django dictionary application
 
 1. Clone the project from my repository
 
-      git clone git@github.com:kibetamos/Dictionary.git
+            git clone git@github.com:kibetamos/Dictionary.git
 
 2. Install requirements
    
