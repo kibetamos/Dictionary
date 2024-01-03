@@ -14,3 +14,4 @@ This is a python django dictionary application
    
        pip install -r requiremnts.txt
 
+
