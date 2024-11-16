@@ -12,5 +12,3 @@ This is a python django dictionary application
 2. Install requirements
    
        pip install -r requiremnts.txt
-
-
